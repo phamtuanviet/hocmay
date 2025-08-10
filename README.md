@@ -7,20 +7,21 @@
   - Phạm Tuấn Việt – MSSV: 23020172  
   - Lê Hoàng Việt – MSSV: 23020169
 - **Tên nhóm trên Kaggle:** INT3405_Nhom_3.
-- **Tên file notebook:** `final-ml.ipynb`
-- **Thành tích trên Kaggle:** 0.386 (Vị trí thứ 26)
+- **Tên file notebook:** 
+  - `final-ml-xgboost.ipynb` – Điểm: **0.386** (Vị trí 26)
+  - `final-ml-linear.ipynb` – Điểm: **0.314**
 
 ---
 
-## 2. Hướng dẫn chạy `final-ml.ipynb` trên Kaggle
+## 2. Hướng dẫn chạy `.ipynb` trên Kaggle
 
 ### Bước 1: Truy cập và đăng nhập Kaggle
 - Mở [https://www.kaggle.com/](https://www.kaggle.com/)  
 - Đăng nhập bằng tài khoản cá nhân.
 
 ### Bước 2: Tạo hoặc tải notebook
-- **Cách 1:** Vào **Code → New Notebook**, sau đó copy toàn bộ nội dung từ `final-ml.ipynb` vào.
-- **Cách 2:** Chọn **Upload Notebook** và tải file `final-ml.ipynb` từ máy tính lên.
+- **Cách 1:** Vào **Code → New Notebook**, sau đó copy toàn bộ nội dung từ `.ipynb` vào.
+- **Cách 2:** Chọn **Upload Notebook** và tải file `.ipynb` từ máy tính lên.
 
 ---
 
@@ -52,4 +53,3 @@
 
 ### Bước 4: Chạy code
 - Nhấn vào Save Version → Save, đợi kết quả phản hồi.
-
